@@ -2,6 +2,9 @@
 
 As the name suggests, it's just simple Investment Calculator 
 
+## Quick look
+[You can check this out there](https://kubasliz.github.io/investment-calculator/), or simply see the screenshots below
+
 ## Screenshots
 
 <img width="754" alt="Preview of Investment Calculator" src="https://github.com/kubasliz/investment-calculator/assets/52798215/0a803e84-3ae9-4b9f-bbae-e9b9e090ec88"> <br />
